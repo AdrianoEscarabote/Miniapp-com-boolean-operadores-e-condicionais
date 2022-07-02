@@ -9,8 +9,8 @@
 ## Overview
 
 ### The challenge
-
-- Fiz um mini app que vai pedir a data de partida de uma espaço-nave, e vai fornecer opções pro usuário escolher em quanto tempo ja está em viagem, então, ele vai poder exibir isso em segundos, minutos, horas ou dias.
+ 
+- Fiz um mini aplicativo que pedirá a data de partida de uma espaço-nave, e fornecerá opções para o usuário escolher em quanto tempo já está em viagem, então, ele irá poder exibir isso em segundos, minutos, horas ou dias.
 
 ## My process
 
